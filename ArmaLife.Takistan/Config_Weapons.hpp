@@ -161,21 +161,21 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", -1, "" };
 		items[] = {
 			// Anwärter
-			{ "hgun_mas_usp_F", "", 8400, 2100}, // - Pistolen
-			{ "hgun_mas_glocksf_F", "", 8400, 2100}, 
-			{ "hgun_mas_glock_F", "", 8400, 2100},
-			{ "SmokeShell", "", 500, 125}, // - Grenades
-			{ "SmokeShellPurple", "", 500, 125},
-			{ "SmokeShellRed", "", 500, 125},
-			{ "SmokeShellOrange", "", 500, 125},
-			{ "SmokeShellGreen", "", 500, 125},
-			{ "SmokeShellYellow", "", 500, 125},
-			{ "SmokeShellBlue", "", 500, 125},
-			{ "ACE_HandFlare_White", "", 500, 125},
-			{ "ACE_HandFlare_Red", "", 500, 125},
-			{ "ACE_HandFlare_Green", "", 500, 125},
-			{ "ACE_HandFlare_Yellow", "", 500, 125},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "hgun_mas_usp_F", "", 1680, 336}, // - Pistolen
+			{ "hgun_mas_glocksf_F", "", 1680, 336}, 
+			{ "hgun_mas_glock_F", "", 1680, 336},
+			{ "SmokeShell", "", 100, 20}, // - Grenades
+			{ "SmokeShellPurple", "", 100, 20},
+			{ "SmokeShellRed", "", 100, 20},
+			{ "SmokeShellOrange", "", 100, 20},
+			{ "SmokeShellGreen", "", 100, 20},
+			{ "SmokeShellYellow", "", 100, 20},
+			{ "SmokeShellBlue", "", 100, 20},
+			{ "ACE_HandFlare_White", "", 100, 20},
+			{ "ACE_HandFlare_Red", "", 100, 20},
+			{ "ACE_HandFlare_Green", "", 100, 20},
+			{ "ACE_HandFlare_Yellow", "", 100, 20},
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_sl {
@@ -185,25 +185,25 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 2, "" };
 		items[] = {
 			// Second Lieutenant
-			{ "hgun_mas_m9_F", "", 9000, 2250}, // - Pistolen
-			{ "hgun_mas_usp_F", "", 8400, 2100},
-			{ "hgun_mas_glocksf_F", "", 8400, 2100},
-			{ "hgun_mas_glock_F", "", 8400, 2100},
-			{ "hgun_mas_p226_F", "", 8400, 2100},
-			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SmokeShell", "", 500, 125}, // - Granaten
-			{ "SmokeShellPurple", "", 500, 125},
-			{ "SmokeShellRed", "", 500, 125},
-			{ "SmokeShellOrange", "", 500, 125},
-			{ "SmokeShellGreen", "", 500, 125},
-			{ "SmokeShellYellow", "", 500, 125},
-			{ "SmokeShellBlue", "", 500, 125},
-			{ "ACE_HandFlare_White", "", 500, 125},
-			{ "ACE_HandFlare_Red", "", 500, 125},
-			{ "ACE_HandFlare_Green", "", 500, 125},
-			{ "ACE_HandFlare_Yellow", "", 500, 125},
-			{ "ACE_M84", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "hgun_mas_m9_F", "", 1800, 360}, // - Pistolen
+			{ "hgun_mas_usp_F", "", 1700, 340},
+			{ "hgun_mas_glocksf_F", "", 1700, 340},
+			{ "hgun_mas_glock_F", "", 1700, 340},
+			{ "hgun_mas_p226_F", "", 1700, 340},
+			{ "arifle_mas_m1014", "", 2500, 500}, // - Gewehre
+			{ "SmokeShell", "", 100, 20}, // - Granaten
+			{ "SmokeShellPurple", "", 100, 20},
+			{ "SmokeShellRed", "", 100, 20},
+			{ "SmokeShellOrange", "", 100, 20},
+			{ "SmokeShellGreen", "", 100, 20},
+			{ "SmokeShellYellow", "", 100, 20},
+			{ "SmokeShellBlue", "", 100, 20},
+			{ "ACE_HandFlare_White", "", 100, 20},
+			{ "ACE_HandFlare_Red", "", 100, 20},
+			{ "ACE_HandFlare_Green", "", 100, 20},
+			{ "ACE_HandFlare_Yellow", "", 100, 20},
+			{ "ACE_M84", "", 160, 32},
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_fl {
@@ -213,32 +213,32 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 3, "" };
 		items[] = {
 			// First Lieutenant
-			{ "hgun_mas_m9_F", "", 9000, 2250}, // - Pistolen
-			{ "hgun_mas_acp_F", "", 9000, 2250},
-			{ "hgun_mas_m23_F", "", 8400, 2100},
-			{ "hgun_mas_usp_F", "", 8400, 2100},
-			{ "hgun_mas_glocksf_F", "", 8400, 2100},
-			{ "hgun_mas_glock_F", "", 8400, 2100},
-			{ "hgun_mas_p226_F", "", 8400, 2100},
-			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
-			{ "arifle_mas_mp5sd", "", 35000, 8750},
-			{ "hgun_mas_mp7_F", "", 35000, 8750},
-			{ "SmokeShell", "", 500, 125}, // - Granaten
-			{ "SmokeShellPurple", "", 500, 125},
-			{ "SmokeShellRed", "", 500, 125},
-			{ "SmokeShellOrange", "", 500, 125},
-			{ "SmokeShellGreen", "", 500, 125},
-			{ "SmokeShellYellow", "", 500, 125},
-			{ "SmokeShellBlue", "", 500, 125},
-			{ "ACE_HandFlare_White", "", 500, 125},
-			{ "ACE_HandFlare_Red", "", 500, 125},
-			{ "ACE_HandFlare_Green", "", 500, 125},
-			{ "ACE_HandFlare_Yellow", "", 500, 125},
-			{ "ACE_M84", "", 800, 200},
-			{ "MiniGrenade", "", 800, 200},
-			{ "HandGrenade", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "hgun_mas_m9_F", "", 2000, 400}, // - Pistolen
+			{ "hgun_mas_acp_F", "", 2000, 400},
+			{ "hgun_mas_m23_F", "", 2000, 400},
+			{ "hgun_mas_usp_F", "", 2000, 400},
+			{ "hgun_mas_glocksf_F", "", 2000, 400},
+			{ "hgun_mas_glock_F", "", 2000, 400},
+			{ "hgun_mas_p226_F", "", 2000, 400},
+			{ "arifle_mas_m1014", "", 3000, 600}, // - Gewehre
+			{ "SMG_05_F", "", 5000, 1000},
+			{ "arifle_mas_mp5sd", "", 5000, 1000},
+			{ "hgun_mas_mp7_F", "", 5000, 1000},
+			{ "SmokeShell", "", 100, 20}, // - Granaten
+			{ "SmokeShellPurple", "", 100, 20},
+			{ "SmokeShellRed", "", 100, 20},
+			{ "SmokeShellOrange", "", 100, 20},
+			{ "SmokeShellGreen", "", 100, 20},
+			{ "SmokeShellYellow", "", 100, 20},
+			{ "SmokeShellBlue", "", 100, 20},
+			{ "ACE_HandFlare_White", "", 100, 20},
+			{ "ACE_HandFlare_Red", "", 100, 20},
+			{ "ACE_HandFlare_Green", "", 100, 20},
+			{ "ACE_HandFlare_Yellow", "", 100, 20},
+			{ "ACE_M84", "", 200, 40},
+			{ "MiniGrenade", "", 1000, 200},
+			{ "HandGrenade", "", 2000, 400},
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_captain {
@@ -284,7 +284,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};	
 	class us_shop_major {
@@ -334,7 +334,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
 	};
 	class us_shop_lc{
@@ -384,7 +384,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
 	};
 	class us_shop_colonel{
@@ -435,7 +435,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
 	};
 	class us_shop_bg{
@@ -489,7 +489,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_mg{
@@ -545,7 +545,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_lg{
@@ -604,7 +604,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};
 	class us_shop_general{
@@ -671,7 +671,7 @@ class WeaponShops {
 			{ "MiniGrenade", "", 800, 200},
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
-			{ "ACE_EarPlugs", "", 800, 200} // - Ausrüstung
+			{ "ACE_EarPlugs", "", 5, 0^^} // - Ausrüstung
 		};
 	};
 
