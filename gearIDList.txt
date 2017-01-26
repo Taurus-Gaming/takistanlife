@@ -1,91 +1,153 @@
-arifle_mas_ak12_sf  // --- AK12 
-arifle_mas_ak74     // --- AK74
-arifle_mas_ak_74m   // --- AK74M
-arifle_mas_ak_74m_c // --- AK74M Camo
-arifle_mas_akm      // --- AKM
-arifle_mas_akms     // --- AKMS
-arifle_mas_akms_c   // --- AKMS Camo
-arifle_mas_aks74u   // --- AKS74U
-arifle_mas_aks74    // --- AKS74
-arifle_mas_aks74u_c // --- AK74U Camo
-arifle_mas_arx_l    // --- ARX160 Black
-arifle_mas_m1014    // --- M1014       		- Shotgun
-arifle_mas_bizon    // --- Bizon       		- SMG 
-arifle_mas_fal      // --- FN Fal
-arifle_mas_g3       // --- G3
-arifle_mas_g3s      // --- G3 (folding Stock)
-arifle_mas_g36c     // --- G36C
-arifle_mas_hk416    // --- HK416
-arifle_mas_hk416_d  // --- HK416 Desert
-arifle_mas_hk416_v  // --- HK416 Wood
-srifle_mas_hk417    // --- HK417
-srifle_mas_hk417_d  // --- HK417 Desert
-srifle_mas_hk417_v  // --- HK417 Wood
-arifle_Katiba_F     // --- KH2002
-arifle_Katiba_C_F   // --- KH2002C
-srifle_mas_ksvk     // --- KSVK        		- Sniper
-srifle_mas_ksvk_c   // --- KSVK Camo   		- Sniper
-arifle_mas_l119     // --- L119A1
-arifle_mas_l119_d   // --- L119A1 Desert
-arifle_mas_l119_v   // --- L119A1 Wood
-arifle_mas_lee      // --- Lee Enfield 		- Flinte
-srifle_mas_lrr      // --- LRR         		- Sniper
-srifle_mas_m107     // --- M107        		- Sniper
-srifle_mas_m107_d   // --- M107 Desert 		- Sniper
-srifle_mas_m107_v   // --- M107 Wood   		- Sniper
-srifle_mas_m110     // --- M110        		- Sniper
-srifle_mas_ebr      // --- M14 EBR     		- Sniper 
-arifle_mas_m14      // --- M14         		- Sniper
-arifle_mas_m16a2    // --- M16A2
-arifle_mas_m16      // --- M16A4
-srifle_mas_m24      // --- M24         		- Sniper
-srifle_mas_m24_d    // --- M24 Desert  		- Sniper
-srifle_mas_m24_v    // --- M24 Wood
-LMG_mas_m240_F      // --- M240        		- MG
-LMG_mas_M249a_F     // --- M249         	- MG
-LMG_mas_M249_F      // --- M249 Para        - MG
-LMG_mas_M249_F_d    // --- M249 Para Desert - MG
-LMG_mas_M249_F_v    // --- M249 Para Wood   - MG
-arifle_mas_m27      // --- M27 IAR
-arifle_mas_m27_d    // --- M27 IAR Desert
-arifle_mas_m27_v    // --- M27 IAR Wood
-arifle_mas_m27m     // --- M27 IAR M   		- MG
-arifle_mas_m27m_d   // --- M27 IAR M Desert - MG
-arifle_mas_m27m_v   // --- M27 IAR M Wood   - MG
-arifle_mas_m4vlt    // --- M4 VLTOR
-arifle_mas_m4       // --- M4A1
-arifle_mas_m4_d     // --- M4A1 Desert
-arifle_mas_m4_v     // --- M4A1 Wood
-arifle_mas_m4c      // --- M4A1 CQB
-arifle_mas_m4c_d    // --- M4A1 CQB Desert 
-arifle_mas_m4c_v    // --- M4A1 CQB Wood 
-LMG_mas_m60_F       // --- M60E4  			- MG
-LMG_mas_mg3_F       // --- MG3				- MG
-LMG_mas_mk48_F      // --- MK48 Mod  		- MG
-LMG_mas_mk48_F_d    // --- MK48 Mod Desert  - MG
-LMG_mas_mk48_F_v    // --- MK48 Mod Wood 	- MG
-arifle_mas_mp40     // --- MP40 (CS)		- SMG
-arifle_mas_mp40_o   // --- MP40 (OS) 		- SMG
-arifle_mas_mp5      // --- MP5A5 			- SMG
-arifle_mas_mp5_d    // --- MP5A5 Desert		- SMG
-arifle_mas_mp5_v    // --- MP5A5 Wood 		- SMG
-arifle_mas_mp5sd    // --- MP5 SD 		    - SMG
-LMG_mas_pkm_F       // --- PKM 				- MG
-LMG_mas_pech_F      // --- PKP Pecheneg 	- MG
-arifle_mas_ppsh     // --- PPsh-41			- MG
-LMG_mas_rpk_F       // --- RPK74 			- MG
-arifle_mas_saiga    // --- Saiga 12			- Shotgun 
-arifle_mas_mk17     // --- SCAR-H
-srifle_mas_mk17s    // --- SCAR-H Mark
-arifle_mas_mk16_l   // --- SCAR-L
-arifle_mas_mk16     // --- SCAR-L LS
-srifle_mas_sr25 	// --- SR25
-srifle_mas_sr25_d   // --- SR25 Desert
-srifle_mas_sr25_v   // --- SR25 Wood
-arifle_mas_sten     // --- STen MKII
-srifle_mas_svd      // --- SVD Dragunav		- Sniper
-srifle_mas_vss      // --- VSS Vintorez		- Sniper
-arifle_mas_m70      // --- Zastava M70
-LMG_mas_m72_F       // --- Zastava M72 		- MG
-srifle_mas_m91      // --- Zastava M91 		- Sniper
+Waffen:
+    Gewehre:
+        arifle_mas_aa12     // --- AA12             - Shotgun
+        arifle_mas_ak12_sf  // --- AK12 
+        arifle_mas_ak74     // --- AK74
+        arifle_mas_ak_74m   // --- AK74M
+        arifle_mas_ak_74m_c // --- AK74M Camo
+        arifle_mas_akm      // --- AKM
+        arifle_mas_akms     // --- AKMS
+        arifle_mas_akms_c   // --- AKMS Camo
+        arifle_mas_aks74u   // --- AKS74U
+        arifle_mas_aks74    // --- AKS74
+        arifle_mas_aks74u_c // --- AK74U Camo
+        arifle_mas_arx_l    // --- ARX160 Black
+        arifle_mas_m1014    // --- M1014            - Shotgun
+        arifle_mas_bizon    // --- Bizon            - SMG 
+        arifle_mas_fal      // --- FN Fal
+        arifle_mas_g3       // --- G3
+        arifle_mas_g3s      // --- G3 (folding Stock)
+        arifle_mas_g36c     // --- G36C
+        arifle_mas_hk416    // --- HK416
+        arifle_mas_hk416_d  // --- HK416 Desert
+        arifle_mas_hk416_v  // --- HK416 Wood
+        srifle_mas_hk417    // --- HK417
+        srifle_mas_hk417_d  // --- HK417 Desert
+        srifle_mas_hk417_v  // --- HK417 Wood
+        arifle_Katiba_F     // --- KH2002
+        arifle_Katiba_C_F   // --- KH2002C
+        srifle_mas_ksvk     // --- KSVK             - Sniper
+        srifle_mas_ksvk_c   // --- KSVK Camo        - Sniper
+        arifle_mas_l119     // --- L119A1
+        arifle_mas_l119_d   // --- L119A1 Desert
+        arifle_mas_l119_v   // --- L119A1 Wood
+        arifle_mas_lee      // --- Lee Enfield      - Flinte
+        srifle_mas_lrr      // --- LRR              - Sniper
+        srifle_mas_m107     // --- M107             - Sniper
+        srifle_mas_m107_d   // --- M107 Desert      - Sniper
+        srifle_mas_m107_v   // --- M107 Wood        - Sniper
+        srifle_mas_m110     // --- M110             - Sniper
+        srifle_mas_ebr      // --- M14 EBR          - Sniper 
+        arifle_mas_m14      // --- M14              - Sniper
+        arifle_mas_m16a2    // --- M16A2
+        arifle_mas_m16      // --- M16A4
+        srifle_mas_m24_d    // --- M24 Desert       - Sniper
+        srifle_mas_m24_v    // --- M24 Wood
+        LMG_mas_m240_F      // --- M240             - MG
+        LMG_mas_M249a_F     // --- M249             - MG
+        LMG_mas_M249_F      // --- M249 Para        - MG
+        LMG_mas_M249_F_d    // --- M249 Para Desert - MG
+        LMG_mas_M249_F_v    // --- M249 Para Wood   - MG
+        arifle_mas_m27      // --- M27 IAR
+        arifle_mas_m27_d    // --- M27 IAR Desert
+        arifle_mas_m27_v    // --- M27 IAR Wood
+        arifle_mas_m27m     // --- M27 IAR M        - MG
+        arifle_mas_m27m_d   // --- M27 IAR M Desert - MG
+        arifle_mas_m27m_v   // --- M27 IAR M Wood   - MG
+        arifle_mas_m4vlt    // --- M4 VLTOR
+        arifle_mas_m4       // --- M4A1
+        arifle_mas_m4_d     // --- M4A1 Desert
+        arifle_mas_m4_v     // --- M4A1 Wood
+        arifle_mas_m4c      // --- M4A1 CQB
+        arifle_mas_m4c_d    // --- M4A1 CQB Desert 
+        arifle_mas_m4c_v    // --- M4A1 CQB Wood 
+        LMG_mas_m60_F       // --- M60E4             - MG
+        LMG_mas_mg3_F       // --- MG3               - MG
+        LMG_mas_mk48_F      // --- MK48 Mod          - MG
+        LMG_mas_mk48_F_d    // --- MK48 Mod Desert   - MG
+        LMG_mas_mk48_F_v    // --- MK48 Mod Wood     - MG
+        arifle_mas_mp40     // --- MP40 (CS)         - SMG
+        arifle_mas_mp40_o   // --- MP40 (OS)         - SMG
+        arifle_mas_mp5      // --- MP5A5             - SMG
+        arifle_mas_mp5_d    // --- MP5A5 Desert      - SMG
+        arifle_mas_mp5_v    // --- MP5A5 Wood        - SMG
+        arifle_mas_mp5sd    // --- MP5 SD            - SMG
+        LMG_mas_pkm_F       // --- PKM               - MG
+        LMG_mas_pech_F      // --- PKP Pecheneg      - MG
+        arifle_mas_ppsh     // --- PPsh-41           - MG
+        LMG_mas_rpk_F       // --- RPK74             - MG
+        arifle_mas_saiga    // --- Saiga 12          - Shotgun 
+        arifle_mas_mk17     // --- SCAR-H
+        srifle_mas_mk17s    // --- SCAR-H Mark
+        arifle_mas_mk16_l   // --- SCAR-L
+        arifle_mas_mk16     // --- SCAR-L LS
+        srifle_mas_sr25     // --- SR25
+        srifle_mas_sr25_d   // --- SR25 Desert
+        srifle_mas_sr25_v   // --- SR25 Wood
+        arifle_mas_sten     // --- STen MKII
+        srifle_mas_svd      // --- SVD Dragunav      - Sniper
+        srifle_mas_vss      // --- VSS Vintorez      - Sniper
+        arifle_mas_m70      // --- Zastava M70
+        LMG_mas_m72_F       // --- Zastava M72       - MG
+        srifle_mas_m91      // --- Zastava M91       - Sniper
+    
+    Pistolen:
+        hgun_mas_acp_F     // --- 1911 ACP
+        hgun_mas_bhp_F     // --- Browning HP
+        hgun_mas_glock_F   // --- Glock18
+        hgun_mas_glocksf_F // --- Glock21SF
+        hgun_mas_m23_F     // --- HK MK 23
+        hgun_mas_usp_F     // --- HK USP45CT
+        hgun_mas_m9_F      // --- M9
+        hgun_mas_mak_F     // --- Makarov
+        hgun_mas_uzi_F     // --- Micro Uzi
+        hgun_mas_grach_F   // --- MP443 Grach
+        hgun_mas_mp7p_F    // --- MP7A1P
+        hgun_mas_sa61_F    // --- SA61 Skorpion
+        hgun_mas_p226_F    // --- Sig P226
  
+    Aufsätze:
+        Visiere:
+            optic_Aco_smg            // -- ACO-MP (Rot)
+            optic_Aco                // -- ACO (Rot)
+            optic_ACO_grn            // -- ACO (Grün)
+            optic_mas_Aco_camo       // -- ACO (Rot) Camo
+            optic_mas_ACO_grn_camo   // -- ACO (Grün) Camo
+            optic_mas_acog           // -- ACOG
+            optic_mas_acog_rd        // -- ACOG Camo
+            optic_mas_acog_c         // -- ACOG Tan
+            optic_mas_acog_eo        // -- ACOG Holo 
+            optic_mas_acog_rd_c      // -- ACOG Holo Camo
+            optic_mas_acog_eo_c      // -- ACOG Holo Tan
+            optic_mas_aim            // -- Aimpoint
+            optic_mas_aim_c          // -- Aimpoint Camo
+            optic_Arco               // -- Arco
+            optic_mas_Arco_blk       // -- Arco Black
+            optic_mas_Arco_camo      // -- Arco Camo
+            optic_DMS                // -- DMS
+            optic_mas_Holosight_blk  // -- Holosight Black
+            optic_mas_Holosight_camo // -- Holosight Camo
+            optic_mas_term           // -- IR/NVG Tactical 
+            optic_mas_DMS            // -- Leupold Holo 
+            optic_mas_DMS_c          // -- Leupold Holo Camo
+            optic_LRPS               // -- LRPS
+            optic_mas_LRPS           // -- LRPS NVG
+            optic_Holosight          // -- MK17 Holosight
+            optic_SOS                // -- MOS
+            optic_MRCO               // -- MRCO
+            optic_mas_MRCO_camo      // -- MRCO Camo
+            optic_Nightstalker       // -- Nightstalker
+            optic_NVS                // -- NSV
+            optic_tws                // -- WBV
+            optic_mas_zeiss          // -- Zeiss
+            optic_mas_zeiss_c        // -- Zeiss Camo
+            optic_mas_zeiss_eo       // -- Zeiss Holo 
+            optic_mas_zeiss_eo_c     // -- Zeiss Holo Camo
+    
+            acc_flashlight           // -- UTG Defender 126
+            acc_mas_pointer_IR_b     // -- IR Peq15 Black Side
+            acc_mas_pointer_IR       // -- IR Peq15 Tan Side
+            acc_mas_pointer_IR2c     // -- IR Peq2 Camo Side
+            acc_mas_pointer_IR2      // -- IR Peq2 Side
+    
+            muzzle_mas_snds_AK       // -- Sound Supp PBS AKS
