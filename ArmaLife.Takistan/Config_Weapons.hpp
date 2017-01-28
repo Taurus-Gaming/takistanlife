@@ -185,12 +185,12 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 2, "" };
 		items[] = {
 			// Second Lieutenant
-			{ "hgun_mas_m9_F", "", 1800, 360}, // - Pistolen
-			{ "hgun_mas_usp_F", "", 1700, 340},
-			{ "hgun_mas_glocksf_F", "", 1700, 340},
+			{ "hgun_mas_m9_F", "", 1700, 336}, // - Pistolen
+			{ "hgun_mas_usp_F", "", 1700, 336},
+			{ "hgun_mas_glocksf_F", "", 1700, 336},
 			{ "hgun_mas_glock_F", "", 1700, 340},
 			{ "hgun_mas_p226_F", "", 1700, 340},
-			{ "arifle_mas_m1014", "", 2500, 500}, // - Gewehre
+			{ "arifle_mas_m1014", "", 2000, 400}, // - Gewehre
 			{ "SmokeShell", "", 100, 20}, // - Granaten
 			{ "SmokeShellPurple", "", 100, 20},
 			{ "SmokeShellRed", "", 100, 20},
@@ -213,17 +213,17 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 3, "" };
 		items[] = {
 			// First Lieutenant
-			{ "hgun_mas_m9_F", "", 2000, 400}, // - Pistolen
-			{ "hgun_mas_acp_F", "", 2000, 400},
-			{ "hgun_mas_m23_F", "", 2000, 400},
-			{ "hgun_mas_usp_F", "", 2000, 400},
+			{ "hgun_mas_m9_F", "", 1800, 360}, // - Pistolen
+			{ "hgun_mas_acp_F", "", 1800, 360},
+			{ "hgun_mas_m23_F", "", 1800, 360},
+			{ "hgun_mas_usp_F", "", 1800, 360},
 			{ "hgun_mas_glocksf_F", "", 2000, 400},
 			{ "hgun_mas_glock_F", "", 2000, 400},
 			{ "hgun_mas_p226_F", "", 2000, 400},
-			{ "arifle_mas_m1014", "", 3000, 600}, // - Gewehre
-			{ "SMG_05_F", "", 5000, 1000},
-			{ "arifle_mas_mp5sd", "", 5000, 1000},
-			{ "hgun_mas_mp7_F", "", 5000, 1000},
+			{ "arifle_mas_m1014", "", 2500, 500}, // - Gewehre
+			{ "SMG_05_F", "", 3000, 600},
+			{ "arifle_mas_mp5sd", "", 3500, 700},
+			{ "hgun_mas_mp7_F", "", 4000, 800},
 			{ "SmokeShell", "", 100, 20}, // - Granaten
 			{ "SmokeShellPurple", "", 100, 20},
 			{ "SmokeShellRed", "", 100, 20},
@@ -248,42 +248,42 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 4, "" };
 		items[] = {
 			// Captain
-			{ "hgun_mas_m9_F", "", 9000, 2250}, // - Pistolen
-			{ "hgun_mas_acp_F", "", 9000, 2250},
-			{ "hgun_mas_m23_F", "", 8400, 2100},
-			{ "hgun_mas_usp_F", "", 8400, 2100},
-			{ "hgun_mas_glocksf_F", "", 8400, 2100},
-			{ "hgun_mas_glock_F", "", 8400, 2100},
-			{ "hgun_mas_p226_F", "", 8400, 2100},
-			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
-			{ "arifle_mas_mp5sd", "", 35000, 8750},
-			{ "hgun_mas_mp7_F", "", 35000, 8750},
-			{ "arifle_mas_hk416", "", 35000, 8750},
-			{ "arifle_mas_hk416_d", "", 35000, 8750},
-			{ "arifle_mas_m16", "", 35000, 8750},
-			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
-			{ "arifle_mas_mk17", "", 35000, 8750},
-			{ "arifle_mas_mk16_l", "", 35000, 8750},
-			{ "arifle_mas_m4vlt", "", 35000, 8750},
-			{ "arifle_mas_m4", "", 35000, 8750},
-			{ "arifle_mas_m4_d", "", 35000, 8750},
-			{ "SmokeShell", "", 500, 125}, // - Granaten
-			{ "SmokeShellPurple", "", 500, 125},
-			{ "SmokeShellRed", "", 500, 125},
-			{ "SmokeShellOrange", "", 500, 125},
-			{ "SmokeShellGreen", "", 500, 125},
-			{ "SmokeShellYellow", "", 500, 125},
-			{ "SmokeShellBlue", "", 500, 125},
-			{ "ACE_HandFlare_White", "", 500, 125},
-			{ "ACE_HandFlare_Red", "", 500, 125},
-			{ "ACE_HandFlare_Green", "", 500, 125},
-			{ "ACE_HandFlare_Yellow", "", 500, 125},
-			{ "ACE_M84", "", 800, 200},
-			{ "MiniGrenade", "", 800, 200},
-			{ "HandGrenade", "", 800, 200},
-			{ "ACE_M14", "", 800, 200},
+		 	{ "hgun_mas_m9_F", "", 1900, 380}, // - Pistolen
+			{ "hgun_mas_acp_F", "", 1900, 380},
+			{ "hgun_mas_m23_F", "", 1900, 380},
+			{ "hgun_mas_usp_F", "", 1900, 380},
+			{ "hgun_mas_glocksf_F", "", 1900, 380},
+			{ "hgun_mas_glock_F", "", 1900, 380},
+			{ "hgun_mas_p226_F", "", 1900, 380},
+			{ "arifle_mas_m1014", "", 3000, 600}, // - Gewehre
+			{ "SMG_05_F", "", 3500, 700},
+			{ "arifle_mas_mp5sd", "", 4000, 800},
+			{ "hgun_mas_mp7_F", "", 4500, 900},
+			{ "arifle_mas_hk416", "", 5000, 1000},
+			{ "arifle_mas_hk416_d", "", 5000, 1000},
+			{ "arifle_mas_m16", "", 5000, 1000},
+			{ "arifle_mas_m16a2", "", 5000, 1000},
+			{ "srifle_mas_ebr", "", 5000, 1000},
+			{ "arifle_mas_mk17", "", 6500, 1300},
+			{ "arifle_mas_mk16_l", "", 6500, 1000},
+			{ "arifle_mas_m4vlt", "", 5000, 1000},
+			{ "arifle_mas_m4", "", 5000, 1000},
+			{ "arifle_mas_m4_d", "", 5000, 1000},
+			{ "SmokeShell", "", 100, 20}, // - Granaten
+			{ "SmokeShellPurple", "", 100, 20},
+			{ "SmokeShellRed", "",  100, 20},
+			{ "SmokeShellOrange", "", 100, 20},
+			{ "SmokeShellGreen", "", 100, 20},
+			{ "SmokeShellYellow", "", 100, 20},
+			{ "SmokeShellBlue", "", 100, 20},
+			{ "ACE_HandFlare_White", "", 100, 20},
+			{ "ACE_HandFlare_Red", "", 100, 20},
+			{ "ACE_HandFlare_Green", "", 100, 20},
+			{ "ACE_HandFlare_Yellow", "", 100, 20},
+			{ "ACE_M84", "", 250, 50},
+			{ "MiniGrenade", "", 1000, 200},
+			{ "HandGrenade", "", 2000, 400},
+			{ "ACE_M14", "", 3000, 600},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
 	};	
@@ -294,46 +294,46 @@ class WeaponShops {
 		level[] = { "life_coplevel", "SCALAR", 5, "" };
 		items[] = {
 			// Captain
-			{ "hgun_mas_m9_F", "", 9000, 2250}, // - Pistolen
-			{ "hgun_mas_acp_F", "", 9000, 2250},
-			{ "hgun_mas_m23_F", "", 8400, 2100},
-			{ "hgun_mas_usp_F", "", 8400, 2100},
-			{ "hgun_mas_glocksf_F", "", 8400, 2100},
-			{ "hgun_mas_glock_F", "", 8400, 2100},
-			{ "hgun_mas_p226_F", "", 8400, 2100},
-			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
-			{ "arifle_mas_mp5sd", "", 35000, 8750},
-			{ "hgun_mas_mp7_F", "", 35000, 8750},
-			{ "arifle_mas_hk416", "", 35000, 8750},
-			{ "arifle_mas_hk416_d", "", 35000, 8750},
-			{ "arifle_mas_m16", "", 35000, 8750},
-			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
-			{ "arifle_mas_mk17", "", 35000, 8750},
-			{ "arifle_mas_mk16_l", "", 35000, 8750},
-			{ "arifle_mas_m4vlt", "", 35000, 8750},
-			{ "arifle_mas_m4", "", 35000, 8750},
-			{ "arifle_mas_m4_d", "", 35000, 8750},
-			{ "arifle_mas_hk416c", "", 35000, 8750},
-			{ "arifle_mas_hk416c_d", "", 35000, 8750},
-			{ "arifle_mas_m4c", "", 35000, 8750},
-			{ "arifle_mas_m4c_d", "", 35000, 8750},
-			{ "SmokeShell", "", 500, 125}, // - Granaten
-			{ "SmokeShellPurple", "", 500, 125},
-			{ "SmokeShellRed", "", 500, 125},
-			{ "SmokeShellOrange", "", 500, 125},
-			{ "SmokeShellGreen", "", 500, 125},
-			{ "SmokeShellYellow", "", 500, 125},
-			{ "SmokeShellBlue", "", 500, 125},
-			{ "ACE_HandFlare_White", "", 500, 125},
-			{ "ACE_HandFlare_Red", "", 500, 125},
-			{ "ACE_HandFlare_Green", "", 500, 125},
-			{ "ACE_HandFlare_Yellow", "", 500, 125},
-			{ "ACE_M84", "", 800, 200},
-			{ "MiniGrenade", "", 800, 200},
-			{ "HandGrenade", "", 800, 200},
-			{ "ACE_M14", "", 800, 200},
+			{ "hgun_mas_m9_F", "", 2000, 400}, // - Pistolen
+			{ "hgun_mas_acp_F", "", 2000, 400},
+			{ "hgun_mas_m23_F", "", 2000, 400},
+			{ "hgun_mas_usp_F", "", 2000, 400},
+			{ "hgun_mas_glocksf_F", "", 2000, 400},
+			{ "hgun_mas_glock_F", "", 2000, 400},
+			{ "hgun_mas_p226_F", "", 2000, 400},
+			{ "arifle_mas_m1014", "", 3500, 700}, // - Gewehre
+			{ "SMG_05_F", "", 4000, 800},
+			{ "arifle_mas_mp5sd", "", 4500, 900},
+			{ "hgun_mas_mp7_F", "", 5000, 1000},
+			{ "arifle_mas_hk416", "", 5500, 1100},
+			{ "arifle_mas_hk416_d", "", 5500, 1100},
+			{ "arifle_mas_m16", "", 5500, 1100},
+			{ "arifle_mas_m16a2", "", 5500, 1100},
+			{ "srifle_mas_ebr", "", 5500, 1100},
+			{ "arifle_mas_mk17", "", 6500, 1300},
+			{ "arifle_mas_mk16_l", "", 6500, 1300},
+			{ "arifle_mas_m4vlt", "", 5500, 1100},
+			{ "arifle_mas_m4", "", 5500, 1100},
+			{ "arifle_mas_m4_d", "", 5500, 1100},
+			{ "arifle_mas_hk416c", "", 5500, 1100},
+			{ "arifle_mas_hk416c_d", "", 5500, 1100},
+			{ "arifle_mas_m4c", "", 5500, 1100},
+			{ "arifle_mas_m4c_d", "", 5500, 1100},
+			{ "SmokeShell", "", 100, 20}, // - Granaten
+			{ "SmokeShellPurple", "", 100, 20},
+			{ "SmokeShellRed", "", 100, 20},
+			{ "SmokeShellOrange", "", 100, 20},
+			{ "SmokeShellGreen", "", 100, 20},
+			{ "SmokeShellYellow", "", 100, 20},
+			{ "SmokeShellBlue", "", 100, 20},
+			{ "ACE_HandFlare_White", "", 100, 20},
+			{ "ACE_HandFlare_Red", "", 100, 20},
+			{ "ACE_HandFlare_Green", "", 100, 20},
+			{ "ACE_HandFlare_Yellow", "", 100, 20},
+			{ "ACE_M84", "", 300, 60},
+			{ "MiniGrenade", "", 1000, 200},
+			{ "HandGrenade", "", 2000, 400},
+			{ "ACE_M14", "", 3500, 700},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
 	};

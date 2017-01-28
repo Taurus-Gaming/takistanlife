@@ -871,4 +871,14 @@ class VirtualItems {
         edible = 100;
         icon = "icons\ico_muttonLeg.paa";
     };
+	
+	class goat_milk {
+		variable =  "goatMilk"
+		displayName = "STR_Item_GoatMilk";
+		weight = 2;
+		buyPrice = 100;
+		sellPrice = 20;
+		illegal = false;
+		edible = 50;
+		icon =
 };
