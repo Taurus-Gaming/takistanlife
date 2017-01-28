@@ -177,6 +177,10 @@ class WeaponShops {
 			{ "ACE_HandFlare_Yellow", "", 100, 20},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12}
+		};
 	};
 	class us_shop_sl {
 		name = "US-Army Second Lieutenant Ausrüstung";
@@ -205,6 +209,12 @@ class WeaponShops {
 			{ "ACE_M84", "", 160, 32},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12} // - Gewehre
+		};
 	};
 	class us_shop_fl {
 		name = "US-Army First Lieutenant Ausrüstung";
@@ -221,7 +231,6 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 2000, 400},
 			{ "hgun_mas_p226_F", "", 2000, 400},
 			{ "arifle_mas_m1014", "", 2500, 500}, // - Gewehre
-			{ "SMG_05_F", "", 3000, 600},
 			{ "arifle_mas_mp5sd", "", 3500, 700},
 			{ "hgun_mas_mp7_F", "", 4000, 800},
 			{ "SmokeShell", "", 100, 20}, // - Granaten
@@ -239,6 +248,14 @@ class WeaponShops {
 			{ "MiniGrenade", "", 1000, 200},
 			{ "HandGrenade", "", 2000, 400},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
+		};		
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12}
 		};
 	};
 	class us_shop_captain {
@@ -256,14 +273,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 1900, 380},
 			{ "hgun_mas_p226_F", "", 1900, 380},
 			{ "arifle_mas_m1014", "", 3000, 600}, // - Gewehre
-			{ "SMG_05_F", "", 3500, 700},
 			{ "arifle_mas_mp5sd", "", 4000, 800},
 			{ "hgun_mas_mp7_F", "", 4500, 900},
 			{ "arifle_mas_hk416", "", 5000, 1000},
 			{ "arifle_mas_hk416_d", "", 5000, 1000},
 			{ "arifle_mas_m16", "", 5000, 1000},
 			{ "arifle_mas_m16a2", "", 5000, 1000},
-			{ "srifle_mas_ebr", "", 5000, 1000},
 			{ "arifle_mas_mk17", "", 6500, 1300},
 			{ "arifle_mas_mk16_l", "", 6500, 1000},
 			{ "arifle_mas_m4vlt", "", 5000, 1000},
@@ -286,6 +301,16 @@ class WeaponShops {
 			{ "ACE_M14", "", 3000, 600},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};	
 	class us_shop_major {
 		name = "US-Army Major Ausrüstung";
@@ -302,14 +327,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 2000, 400},
 			{ "hgun_mas_p226_F", "", 2000, 400},
 			{ "arifle_mas_m1014", "", 3500, 700}, // - Gewehre
-			{ "SMG_05_F", "", 4000, 800},
 			{ "arifle_mas_mp5sd", "", 4500, 900},
 			{ "hgun_mas_mp7_F", "", 5000, 1000},
 			{ "arifle_mas_hk416", "", 5500, 1100},
 			{ "arifle_mas_hk416_d", "", 5500, 1100},
 			{ "arifle_mas_m16", "", 5500, 1100},
 			{ "arifle_mas_m16a2", "", 5500, 1100},
-			{ "srifle_mas_ebr", "", 5500, 1100},
 			{ "arifle_mas_mk17", "", 6500, 1300},
 			{ "arifle_mas_mk16_l", "", 6500, 1300},
 			{ "arifle_mas_m4vlt", "", 5500, 1100},
@@ -336,6 +359,16 @@ class WeaponShops {
 			{ "ACE_M14", "", 3500, 700},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_lc{
 		name = "US-Army Lieutenant Colonel Ausrüstung";
@@ -352,14 +385,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
 			{ "arifle_mas_hk416_d", "", 35000, 8750},
 			{ "arifle_mas_m16", "", 35000, 8750},
 			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
 			{ "arifle_mas_mk17", "", 35000, 8750},
 			{ "arifle_mas_mk16_l", "", 35000, 8750},
 			{ "arifle_mas_m4vlt", "", 35000, 8750},
@@ -386,6 +417,16 @@ class WeaponShops {
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_colonel{
 		name = "US-Army Colonel Ausrüstung";
@@ -402,14 +443,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
 			{ "arifle_mas_hk416_d", "", 35000, 8750},
 			{ "arifle_mas_m16", "", 35000, 8750},
 			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
 			{ "arifle_mas_mk17", "", 35000, 8750},
 			{ "arifle_mas_mk16_l", "", 35000, 8750},
 			{ "arifle_mas_m4vlt", "", 35000, 8750},
@@ -419,7 +458,6 @@ class WeaponShops {
 			{ "arifle_mas_hk416c_d", "", 35000, 8750},
 			{ "arifle_mas_m4c", "", 35000, 8750},
 			{ "arifle_mas_m4c_d", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
 			{ "SmokeShell", "", 500, 125}, // - Granaten
 			{ "SmokeShellPurple", "", 500, 125},
 			{ "SmokeShellRed", "", 500, 125},
@@ -437,6 +475,16 @@ class WeaponShops {
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};	
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_bg{
 		name = "US-Army Brigadier General Ausrüstung";
@@ -453,14 +501,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
 			{ "arifle_mas_hk416_d", "", 35000, 8750},
 			{ "arifle_mas_m16", "", 35000, 8750},
 			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
 			{ "arifle_mas_mk17", "", 35000, 8750},
 			{ "arifle_mas_mk16_l", "", 35000, 8750},
 			{ "arifle_mas_m4vlt", "", 35000, 8750},
@@ -491,6 +537,18 @@ class WeaponShops {
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "100Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "200Rnd_mas_556x45_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_mg{
 		name = "US-Army Major General Ausrüstung";
@@ -507,14 +565,12 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
 			{ "arifle_mas_hk416_d", "", 35000, 8750},
 			{ "arifle_mas_m16", "", 35000, 8750},
 			{ "arifle_mas_m16a2", "", 35000, 8750},
-			{ "srifle_mas_ebr", "", 35000, 8750},
 			{ "arifle_mas_mk17", "", 35000, 8750},
 			{ "arifle_mas_mk16_l", "", 35000, 8750},
 			{ "arifle_mas_m4vlt", "", 35000, 8750},
@@ -547,6 +603,19 @@ class WeaponShops {
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "100Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "200Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "5Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_lg{
 		name = "US-Army Lieutenant General Ausrüstung";
@@ -563,7 +632,6 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
@@ -606,6 +674,19 @@ class WeaponShops {
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0} // - Ausrüstung
 		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "100Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "200Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "5Rnd_mas_762x51_Stanag", "", 60, 12}
+		};
 	};
 	class us_shop_general{
 		name = "US-Army General Ausrüstung";
@@ -622,7 +703,6 @@ class WeaponShops {
 			{ "hgun_mas_glock_F", "", 8400, 2100},
 			{ "hgun_mas_p226_F", "", 8400, 2100},
 			{ "arifle_mas_m1014", "", 35000, 8750}, // - Gewehre
-			{ "SMG_05_F", "", 35000, 8750},
 			{ "arifle_mas_mp5sd", "", 35000, 8750},
 			{ "hgun_mas_mp7_F", "", 35000, 8750},
 			{ "arifle_mas_hk416", "", 35000, 8750},
@@ -672,6 +752,22 @@ class WeaponShops {
 			{ "HandGrenade", "", 800, 200},
 			{ "ACE_M14", "", 800, 200},
 			{ "ACE_EarPlugs", "", 5, 0^^} // - Ausrüstung
+		};
+		mags[] = {
+			{ "12Rnd_mas_45acp_Mag", "", 60, 12}, // - Pistolen
+			{ "17Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "15Rnd_mas_9x21_Mag", "", 60, 12},
+			{ "40Rnd_mas_46x30_Mag", "", 60, 12},
+			{ "7Rnd_mas_12Gauge_Slug", "", 60, 12}, // - Gewehre
+			{ "30Rnd_mas_9x21_Stanag", "", 60, 12},
+			{ "30Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "20Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "100Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "200Rnd_mas_556x45_Stanag", "", 60, 12},
+			{ "5Rnd_mas_762x51_Stanag", "", 60, 12},
+			{ "5Rnd_mas_127x99_Stanag", "", 60, 12},
+			{ "5Rnd_mas_127x108_mag", "", 60, 12},	
+			{ "10Rnd_mas_338_Stanag", "", 60, 12}			
 		};
 	};
 
