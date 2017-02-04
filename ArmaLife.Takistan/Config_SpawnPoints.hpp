@@ -22,21 +22,13 @@ class CfgSpawnPoints {
     class Civilian {
         class Kavala {
             displayName = "Bastam";
-            spawnMarker = "civ_spawn_1";
+            spawnMarker = "civ_spawn_bastam";
             icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
             licenses[] = { { "rebel", false } };
             level[] = { "", "", -1 };
         };
-		
-		class zavarak {
-			displayName = "Zavarak";
-			spawnMarker = "civ_spawn_2";
-			icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
-            licenses[] = { { "rebel", false } };
-            level[] = { "", "", -1 };
-		};
 
-        /*class Athira {
+        class Athira {
             displayName = "Athira";
             spawnMarker = "civ_spawn_3";
             icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
@@ -82,13 +74,13 @@ class CfgSpawnPoints {
             icon = "\a3\ui_f\data\map\MapControl\bunker_ca.paa";
             licenses[] = { { "rebel", true } };
             level[] = { "", "", -1 };
-        };*/
+        };
     };
 
     class Cop {
         class Kavala {
             displayName = "Kavala HQ";
-            spawnMarker = "us_spawn_1";
+            spawnMarker = "cop_spawn_1";
             icon = "\a3\ui_f\data\map\MapControl\watertower_ca.paa";
             licenses[] = { { "", true } };
             level[] = { "", "", -1 };
@@ -96,7 +88,7 @@ class CfgSpawnPoints {
 
         class Athira {
             displayName = "Athira HQ";
-            spawnMarker = "us_spawn_3";
+            spawnMarker = "cop_spawn_3";
             icon = "\a3\ui_f\data\map\MapControl\fuelstation_ca.paa";
             licenses[] = { { "", true } };
             level[] = { "", "", -1 };
@@ -104,7 +96,7 @@ class CfgSpawnPoints {
 
         class Pyrgos {
             displayName = "Pyrgos HQ";
-            spawnMarker = "us_spawn_2";
+            spawnMarker = "cop_spawn_2";
             icon = "\a3\ui_f\data\map\GroupIcons\badge_rotate_0_gs.paa";
             licenses[] = { { "", true } };
             level[] = { "", "", -1 };
