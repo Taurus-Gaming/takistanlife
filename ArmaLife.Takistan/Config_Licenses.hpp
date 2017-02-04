@@ -16,13 +16,13 @@ class Licenses {
         side = "civ";
     };
 
-    class boat {
+    /*class boat {
         variable = "boat";
         displayName = "STR_License_Boat";
         price = 1000;
         illegal = false;
         side = "civ";
-    };
+    };*/
 
     class pilot {
         variable = "pilot";
@@ -65,70 +65,14 @@ class Licenses {
     };
 
     //Processing Licenses
-    class oil {
-        variable = "oil";
-        displayName = "STR_License_Oil";
-        price = 10000;
-        illegal = false;
-        side = "civ";
-    };
-
-    class diamond {
-        variable = "diamond";
-        displayName = "STR_License_Diamond";
-        price = 35000;
-        illegal = false;
-        side = "civ";
-    };
-
-    class salt {
-        variable = "salt";
-        displayName = "STR_License_Salt";
-        price = 12000;
-        illegal = false;
-        side = "civ";
-    };
-
-    class sand {
-        variable = "sand";
-        displayName = "STR_License_Sand";
-        price = 14500;
-        illegal = false;
-        side = "civ";
-    };
-
-    class iron {
-        variable = "iron";
-        displayName = "STR_License_Iron";
-        price = 9500;
-        illegal = false;
-        side = "civ";
-    };
-
-    class copper {
-        variable = "copper";
-        displayName = "STR_License_Copper";
-        price = 8000;
-        illegal = false;
-        side = "civ";
-    };
-
-    class cement {
-        variable = "cement";
-        displayName = "STR_License_Cement";
-        price = 6500;
-        illegal = false;
-        side = "civ";
-    };
-
-    class medmarijuana {
-        variable = "medmarijuana";
-        displayName = "STR_License_Medmarijuana";
-        price = 15000;
-        illegal = false;
-        side = "civ";
-    };
-
+	class work {
+		variable = "work";
+		displayName = "STR_License_Work";
+		price = 25000;
+		illegal = false;
+		side = "civ";
+	};
+    
     //Illegal Licenses
     class cocaine {
         variable = "cocaine";
